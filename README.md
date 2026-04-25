@@ -6,7 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 **Author:** Khola Asghar
-**Organization:** DevelopersHub Corporation   
+
+**Organization:** DevelopersHub Corporation
+
 **Tasks Completed:** 5 out of 5 
 
 ---
@@ -87,7 +89,7 @@ using pandas, matplotlib and seaborn.
 
 ---
 
-## ✅ Task 2: Credit Risk Prediction
+##  Task 2: Credit Risk Prediction
 
 ![Confusion Matrix](Task2-Credit-Risk/confusion_matrix1.png)
 
@@ -262,5 +264,7 @@ Through these 5 tasks I developed the following skills:
 
 
 **Author:** Khola Asghar 
-**Internship:** DevelopersHub Corporation  
+
+**Internship:** DevelopersHub Corporation
+
 **Date:** 24 April 2026
