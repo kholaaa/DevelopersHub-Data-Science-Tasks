@@ -6,13 +6,12 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 **Author:** Khola Asghar
-**Organization:** DevelopersHub Corporation  
-**Duration:**24 April 2026  
-**Tasks Completed:** 5 out of 5 ✅
+**Organization:** DevelopersHub Corporation   
+**Tasks Completed:** 5 out of 5 
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This repository contains all 5 Data Science tasks completed as part 
 of the DevelopersHub Corporation Data Science and Analytics Internship. 
@@ -22,7 +21,7 @@ extraction using Python and machine learning libraries.
 
 ---
 
-## 🛠️ Tools and Technologies Used
+##  Tools and Technologies Used
 
 | Tool | Purpose |
 |---|---|
@@ -56,9 +55,9 @@ DevelopersHub-Data-Science-Internship/
 
 ---
 
-## ✅ Task 1: Exploring and Visualizing the Iris Dataset
+## Task 1: Exploring and Visualizing the Iris Dataset
 
-![Scatter Plot](Task1-Iris-Analysis/scatter_plot.png)
+![Scatter Plot](Task1-Iris-Analysis/scatter_plot1.png)
 
 ### Objective
 Understand how to read, summarize and visualize a real dataset
@@ -90,7 +89,7 @@ using pandas, matplotlib and seaborn.
 
 ## ✅ Task 2: Credit Risk Prediction
 
-![Confusion Matrix](Task2-Credit-Risk/confusion_matrix.png)
+![Confusion Matrix](Task2-Credit-Risk/confusion_matrix1.png)
 
 ### Objective
 Predict whether a loan applicant is likely to default on a loan
@@ -110,7 +109,7 @@ using machine learning classification.
 ### Model Performance
 | Metric | Score |
 |---|---|
-| ✅ Accuracy | 82% |
+| Accuracy | 82% |
 | Model Used | Random Forest |
 | Train/Test Split | 80% / 20% |
 
@@ -122,7 +121,7 @@ using machine learning classification.
 
 ---
 
-## ✅ Task 3: Customer Churn Prediction
+##  Task 3: Customer Churn Prediction
 
 ![Feature Importance](Task3-Customer-Churn/feature_importance.png)
 
@@ -145,7 +144,7 @@ classification modeling and feature importance analysis.
 ### Model Performance
 | Metric | Score |
 |---|---|
-| ✅ Accuracy | 86.40% |
+|  Accuracy | 86.40% |
 | Model Used | Random Forest |
 | Train/Test Split | 80% / 20% |
 | Stayed Recall | 96% |
@@ -160,7 +159,7 @@ classification modeling and feature importance analysis.
 
 ---
 
-## ✅ Task 4: Predicting Insurance Claim Amounts
+## Task 4: Predicting Insurance Claim Amounts
 
 ![BMI vs Charges](Task4-Insurance-Prediction/bmi_charges.png)
 
@@ -196,7 +195,7 @@ using Linear Regression modeling.
 
 ---
 
-## ✅ Task 5: Personal Loan Acceptance Prediction
+## Task 5: Personal Loan Acceptance Prediction
 
 ![Loan Acceptance](Task5-Loan-Acceptance/loan_acceptance.png)
 
@@ -219,7 +218,7 @@ loan offer using classification modeling.
 ### Model Performance
 | Metric | Score |
 |---|---|
-| ✅ Accuracy | 88.84% |
+|  Accuracy | 88.84% |
 | Model Used | Decision Tree |
 | Train/Test Split | 80% / 20% |
 
@@ -232,7 +231,7 @@ loan offer using classification modeling.
 
 ---
 
-## 📊 Model Performance Comparison
+##  Model Performance Comparison
 
 | Task | Model | Accuracy |
 |---|---|---|
@@ -244,7 +243,7 @@ loan offer using classification modeling.
 
 ---
 
-## 🏆 Key Learnings
+##  Key Learnings
 
 Through these 5 tasks I developed the following skills:
 
